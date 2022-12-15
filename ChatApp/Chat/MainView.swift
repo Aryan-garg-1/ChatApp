@@ -106,7 +106,7 @@ struct MainView: View {
                     }
                     ToolbarItem(placement: .navigationBarTrailing){
                         VStack{
-                            Button("𑗊") {
+                            Button("Name") {
                                 showModal.toggle()
                             }.sheet(isPresented: $showModal) {
                                     Name(user: userName, showModal: $showModal)
