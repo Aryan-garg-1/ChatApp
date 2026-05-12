@@ -152,7 +152,3 @@ git clone https://github.com/yourusername/ChatApp.git
 - Unique display names as peer IDs instead of device model
 
 ---
-
-## 📄 License
-
-[MIT](LICENSE)
