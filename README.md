@@ -153,13 +153,6 @@ git clone https://github.com/yourusername/ChatApp.git
 
 ---
 
-## 👤 Authors
-
-- **Aryan Garg** — `Name.swift`, `Data_Handle.swift`
-- **Giuseppe Rocco** — `Controls.swift`
-
----
-
 ## 📄 License
 
 [MIT](LICENSE)
